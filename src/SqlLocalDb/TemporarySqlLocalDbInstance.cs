@@ -4,7 +4,7 @@
 using System;
 using Microsoft.Extensions.Logging;
 
-namespace MartinCostello.SqlLocalDb
+namespace Wrapping.SqlLocalDb
 {
     /// <summary>
     /// A class representing a temporary SQL LocalDB instance. This class cannot be inherited.

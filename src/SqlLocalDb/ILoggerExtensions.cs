@@ -5,7 +5,7 @@ using System;
 using System.Globalization;
 using Microsoft.Extensions.Logging;
 
-namespace MartinCostello.SqlLocalDb
+namespace Wrapping.SqlLocalDb
 {
     /// <summary>
     /// A class containing extension methods for the <see cref="ILogger"/> interface. This class cannot be inherited.

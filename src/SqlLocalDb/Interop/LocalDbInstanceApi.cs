@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using Microsoft.Extensions.Logging;
 
-namespace MartinCostello.SqlLocalDb.Interop
+namespace Wrapping.SqlLocalDb.Interop
 {
     /// <summary>
     /// A class containing methods for interop with the SQL LocalDB Instance API.  This class cannot be inherited.

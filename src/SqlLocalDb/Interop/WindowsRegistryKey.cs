@@ -1,11 +1,11 @@
-// Copyright (c) Martin Costello, 2012-2018. All rights reserved.
+﻿// Copyright (c) Martin Costello, 2012-2018. All rights reserved.
 // Licensed under the Apache 2.0 license. See the LICENSE file in the project root for full license information.
 
 using System;
 using System.Diagnostics;
 using Microsoft.Win32;
 
-namespace MartinCostello.SqlLocalDb.Interop
+namespace Wrapping.SqlLocalDb.Interop
 {
     /// <summary>
     /// A class representing an implementation of <see cref="IRegistryKey"/> for a Windows registry key. This class cannot be inherited.

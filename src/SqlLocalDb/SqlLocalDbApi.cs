@@ -10,11 +10,11 @@ using System.Linq;
 using System.Runtime.InteropServices;
 using System.Security.Principal;
 using System.Text;
-using MartinCostello.SqlLocalDb.Interop;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Logging.Abstractions;
+using Wrapping.SqlLocalDb.Interop;
 
-namespace MartinCostello.SqlLocalDb
+namespace Wrapping.SqlLocalDb
 {
     /// <summary>
     /// A class representing a wrapper to the SQL Server LocalDB Instance API. This class cannot be inherited.

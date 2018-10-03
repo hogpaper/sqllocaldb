@@ -4,7 +4,7 @@
 using System;
 using System.Globalization;
 
-namespace MartinCostello.SqlLocalDb
+namespace Wrapping.SqlLocalDb
 {
     /// <summary>
     /// A class representing options for using the SQL LocalDB API.

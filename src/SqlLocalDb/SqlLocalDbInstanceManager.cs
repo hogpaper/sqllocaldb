@@ -4,7 +4,7 @@
 using System;
 using System.Diagnostics;
 
-namespace MartinCostello.SqlLocalDb
+namespace Wrapping.SqlLocalDb
 {
     /// <summary>
     /// A class that can be used to manage instances of SQL LocalDB. This class cannot be inherited.

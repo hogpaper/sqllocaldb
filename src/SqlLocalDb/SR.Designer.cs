@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MartinCostello.SqlLocalDb {
+namespace Wrapping.SqlLocalDb {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace MartinCostello.SqlLocalDb {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("MartinCostello.SqlLocalDb.SR", typeof(SR).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Wrapping.SqlLocalDb.SR", typeof(SR).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

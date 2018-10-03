@@ -3,7 +3,7 @@
 
 using Microsoft.Extensions.Logging;
 
-namespace MartinCostello.SqlLocalDb
+namespace Wrapping.SqlLocalDb
 {
     /// <summary>
     /// A class containing trace event Ids.  This class cannot be inherited.

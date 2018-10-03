@@ -5,7 +5,7 @@ using System;
 using System.ComponentModel;
 using System.Data.SqlClient;
 
-namespace MartinCostello.SqlLocalDb
+namespace Wrapping.SqlLocalDb
 {
     /// <summary>
     /// A class containing extension methods for the <see cref="ISqlLocalDbInstanceInfo"/> interface.  This class cannot be inherited.
